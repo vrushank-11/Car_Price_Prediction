@@ -1,10 +1,14 @@
-Sure, here's a detailed README file for your Flask web application:
-
----
-
 # Car Price Prediction Web Application
 
 This web application predicts the selling price of cars based on user input features. The application is built using Flask, and the machine learning model is trained using the Random Forest algorithm.
+
+## Supervised by
+[Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), (Assistant Professor) Department of CSE, MIT Mysore
+
+## Collaborators
+- 4MH21CS118 [Vrushank Gowda K](https://github.com/vrushank-11)
+- 4MH21CS101 [Subhash H T](https://github.com/Subhashdarya)
+- 4MH21CS098 [Skanda N](https://github.com/Skanda2809)
 
 ## Features
 
@@ -175,4 +179,17 @@ Here is an example of the `index.html` file to use with the updated Flask app:
 </html>
 ```
 
-This README file and the corresponding `index.html` file should help you set up and run your Flask web application successfully. If you have any further questions or need additional assistance, feel free to ask!
+### Input form and Prediction Result
+![ Input For and Prediction Result](https://github.com/vrushank-11/Car_Price_Prediction/blob/main/images/carprice.png)
+
+### Diabetes Visualization
+
+#### EDA - Pairplot
+![Pairplot](https://github.com/vrushank-11/Car_Price_Prediction/blob/main/images/pair_plot.png)
+
+## Conclusion
+
+This project demonstrates the application of data science techniques to predict car prices using machine learning. By performing thorough exploratory data analysis (EDA), training multiple models, and deploying the best model using Flask, we provide a practical tool for diabetes prediction.
+
+## License
+This project is licensed under the MIT License.
