@@ -38,7 +38,30 @@ This web application predicts the selling price of cars based on user input feat
 4. **Run the Flask application:**
     ```sh
     flask run
-    ```
+
+
+```
+dataset
+│   cardekho.csv
+│
+images
+│   carprice.png
+│   pair_plot.png
+│
+static
+│   styles.css
+│
+templates
+│   index.html
+│
+app.py
+best_model.pkl
+carprice-prediction.ipynb
+carprice-prediction.py
+label_encoders.pkl
+README.md
+requirements.txt
+```
 
 ## File Structure
 
